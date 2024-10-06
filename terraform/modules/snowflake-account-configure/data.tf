@@ -1,0 +1,1 @@
+data "snowflake_current_account" "current_account" {}
